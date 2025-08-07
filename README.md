@@ -1,5 +1,4 @@
 # venturevans
-This is the result of take home test from Orbit Tech Indo
 
 # Custom Van Configurator - README
 
@@ -29,14 +28,7 @@ This is a custom van configurator website designed to enhance user engagement, e
 - **20% Noovo** (https://www.noovolife.com/): Integrated for additional design enhancements.
 - **10% Own Reference/Idea: Custom ideas and modifications tailored to improve user experience and functionality.
 
-## Repository & Deployment
-- **Code Repository:** Shared with OrbitTechIndo.
-- **Live Website:** https://lawngreen-squirrel-202255.hostingersite.com/
-- **WordPress Admin Dashboard Username:** admventure
-- **WordPress Admin Dashboard Password:** pXT4fOrd&oQgqrh*cVl6NFx*
 
-## Notes
-I sincerely appreciate the opportunity to complete this take-home test. I hope the website aligns with the expected features and delivers a seamless experience. Looking forward to the next step in the recruitment process!
-Regards,
-Anastia Kristiana
+
+
 
